@@ -6,7 +6,7 @@
 
 ## 效果预览
 
-![Deep Code 终端截图](images/1.png)
+<img width="1518" height="873" alt="1" src="https://github.com/user-attachments/assets/bce251f3-c09b-4bca-a92b-1e3ce5f2d93c" />
 
 ---
 
