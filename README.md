@@ -6,7 +6,7 @@
 
 ## 效果预览
 
-<img width="1518" height="873" alt="1" src="https://github.com/user-attachments/assets/bce251f3-c09b-4bca-a92b-1e3ce5f2d93c" />
+<img width="1724" height="813" alt="2026-08-13" src="https://github.com/user-attachments/assets/0500d939-f143-4ed5-8af2-9830abb4e46f" />
 
 ---
 
